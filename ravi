@@ -1,0 +1,6 @@
+raviteja=20
+teja=20
+mani=90
+sum=ravi+teja+mani
+print(sum)
+
